@@ -21,7 +21,8 @@
 <br/>
 
 > ### :heavy_check_mark: 분석 방법
-<img src="./img/Dae_dataprocess.PNG" width="620" height="300"><br/>  
+<img src="./img/Dae_dataprocess.PNG" width="650" height="300"><br/>  
+<img src="./img/Dae_area.PNG" width="650" height="300"><br/>  
 > 1. 데이터 수집 : 데이터 공공 포털 사이트에서 대전광역시 자료 수집, 공주 어르신 놀이터 설립자 인터뷰 진행 등으로 수집
 > 2. 전처리 : 정규식을 활용하여 중복데이터, 불필요한 데이터 제거 및 통합
 > 3. 분석 : 상관분석, GIS 헥사곤 밀도 분석, 군집 분석 
@@ -33,6 +34,7 @@
 <br/>
 
 > ### :heavy_check_mark: 결과물  
+<img src="./img/Dae_rank.PNG" width="650" height="300"><br/>  
 > 1. QGIS 프로그램을 통하여 지도를 시각화
 > 2. 상위 5%에 해당되는 헥사곤(범위) 출력
 > 3. 선택된 헥사곤(범위) 내에 공원이 여러 개가 존재한다면 가장 넓은 공원을 선택
